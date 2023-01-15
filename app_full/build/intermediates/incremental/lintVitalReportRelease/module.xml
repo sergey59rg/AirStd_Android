@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/sergey/Documents/Android/AirStd/app_full"
+    name=":app_full"
+    type="APP"
+    maven="AIRSTD:app_full:"
+    gradle="7.2.0"
+    buildFolder="build"
+    bootClassPath="/Users/sergey/Library/Android/sdk/platforms/android-30/android.jar:/Users/sergey/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-30"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

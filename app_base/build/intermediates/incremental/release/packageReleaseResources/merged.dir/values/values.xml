@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+    <color name="colorSecondaryText">#ED4926</color>
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <string name="active_disconnected">disconnect</string>
+    <string name="app_name">Airstd</string>
+    <string name="cancel">Cancel</string>
+    <string name="characteristic">Characteristic</string>
+    <string name="characteristic_list">Characteristic list</string>
+    <string name="close_notification">Close notification</string>
+    <string name="connect">Connect</string>
+    <string name="connect_fail">connection failed</string>
+    <string name="connected">Connected</string>
+    <string name="console">Console</string>
+    <string name="data_changed">Data changes:</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnected">Connection disconnect</string>
+    <string name="enter">Enter</string>
+    <string name="gpsNotifyMsg">BLE needs to open the positioning function</string>
+    <string name="input_hex">Please enter the HEX format command</string>
+    <string name="mac">mac</string>
+    <string name="name">NAME</string>
+    <string name="navigation_drawer_close">sd</string>
+    <string name="navigation_drawer_open">sd</string>
+    <string name="notifyTitle">Prompt</string>
+    <string name="open_notification">Open notification</string>
+    <string name="please_open_blue">Please turn on Bluetooth first</string>
+    <string name="read">Read</string>
+    <string name="select_operation_type">Select operation type</string>
+    <string name="service">service</string>
+    <string name="service_list">Service</string>
+    <string name="setting">Go to settings</string>
+    <string name="start_scan">Start scanning</string>
+    <string name="stop_scan">Stop scanning</string>
+    <string name="type">type</string>
+    <string name="write">Write</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@style/NotCapsButton</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="NotCapsButton" parent="Widget.AppCompat.Button">
+        <item name="android:textAllCaps">false</item>
+    </style>
+</resources>

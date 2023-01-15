@@ -1,0 +1,4 @@
+#Wed Nov 09 15:24:25 YEKT 2022
+base.0=/Users/sergey/Downloads/airstd-android-master/app_mini/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

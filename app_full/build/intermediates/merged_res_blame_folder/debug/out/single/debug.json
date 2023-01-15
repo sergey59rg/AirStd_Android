@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_fragment_customization.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/fragment_customization.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-pngs-10:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-pngs-10:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_setings_img.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/setings_img.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_down_pressed.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_down_pressed.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_background.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/background.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_app_bar_main.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_fragment_service_list.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/fragment_service_list.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_left.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_left.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_right_pressed.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_right_pressed.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_down_image.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_down_image.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_background_logo.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/background_logo.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_content_main.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/content_main.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_all_img.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/all_img.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_all.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/all.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_right.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_right.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_right_image.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_right_image.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-pngs-10:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_down.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_down.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_up_image.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_up_image.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_activity_main.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-pngs-10:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-pngs-10:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_custtomization_preset.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/custtomization_preset.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-pngs-10:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-pngs-10:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_up_pressed.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_up_pressed.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_setings.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/setings.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_left_pressed.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_left_pressed.png"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_up.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_up.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_adapter_service.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/adapter_service.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/layout_custtomization_cycle.xml.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/layout/custtomization_cycle.xml"
+    },
+    {
+        "merged": "ru.airmasters.airstd_full.app_full-merged_res-15:/drawable_button_left_image.png.flat",
+        "source": "ru.airmasters.airstd_full.app_full-main-17:/drawable/button_left_image.png"
+    }
+]

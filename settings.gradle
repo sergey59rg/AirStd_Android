@@ -1,0 +1,3 @@
+include ':app_mini', ':app_full', ':app_base'
+rootProject.name='AIRSTD'
+include ':app_wear'

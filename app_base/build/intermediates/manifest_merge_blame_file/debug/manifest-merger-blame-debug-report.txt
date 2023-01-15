@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="ru.airmasters.airstd_base" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="19"
+7-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="30" />
+8-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+9
+10    <dist:module dist:instant="true" />
+10-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:5:5-40
+10-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:5:18-37
+11
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:7:5-68
+12-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:7:22-65
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:8:5-74
+13-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:8:22-71
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:9:5-81
+14-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:10:5-79
+15-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:11:5-81
+16-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:11:22-78
+17
+18    <application
+18-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:13:5-26:19
+19        android:allowBackup="true"
+19-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:14:9-35
+20        android:label="@string/app_name"
+20-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:15:9-41
+21        android:supportsRtl="true"
+21-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:16:9-35
+22        android:theme="@style/AppTheme" >
+22-->/Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:17:9-40
+23
+24        <!-- <activity android:name="ru.airmasters.airstd_base.MainActivity" android:configChanges="orientation|screenSize"> -->
+25        <!-- <intent-filter> -->
+26        <!-- <action android:name="android.intent.action.MAIN" /> -->
+27
+28
+29        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+30        <!-- </intent-filter> -->
+31        <!-- </activity> -->
+32    </application>
+33
+34</manifest>

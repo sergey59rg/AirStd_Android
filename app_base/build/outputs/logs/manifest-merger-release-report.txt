@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:3:5-61
+	xmlns:android
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:5:5-40
+	dist:instant
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:5:18-37
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:13:5-26:19
+	android:supportsRtl
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml:17:9-40
+uses-sdk
+INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+		ADDED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergey/Documents/Android/AirStd/app_base/src/main/AndroidManifest.xml

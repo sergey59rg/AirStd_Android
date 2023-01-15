@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="#ffffff"
+              android:weightSum="5">
+
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/priset_lien"
+            android:clickable="true"
+            android:focusable="true">
+        <TextView android:layout_width="40dp"
+                  android:layout_height="wrap_content"
+                  android:textSize="23dp"
+                  android:textColor="#FFFFFF"
+                  android:gravity="top"
+                  android:id="@+id/idPres"
+                  android:layout_marginTop="50dp"/>
+        <EditText android:layout_width="40dp"
+                  android:layout_height="wrap_content"
+                  android:text="FL"
+                  android:textSize="23dp"
+                  android:textColor="#FFFFFF"
+                  android:gravity="top"
+                  android:id="@+id/FL"
+                  android:layout_marginTop="20dp"
+                  android:layout_toRightOf="@id/idPres"/>
+        <EditText android:layout_width="40dp"
+                  android:layout_height="wrap_content"
+                  android:text="FR"
+                  android:textSize="23dp"
+                  android:textColor="#FFFFFF"
+                  android:gravity="top"
+                  android:id="@+id/FR"
+                  android:layout_marginTop="20dp"
+                  android:layout_toRightOf="@id/FL"/>
+        <EditText android:layout_width="40dp"
+                  android:layout_height="wrap_content"
+                  android:text="RL"
+                  android:textSize="23dp"
+                  android:textColor="#FFFFFF"
+                  android:gravity="top"
+                  android:id="@+id/RL"
+                  android:layout_marginTop="20dp"
+                  android:layout_toRightOf="@id/FR"/>
+        <EditText android:layout_width="40dp"
+                  android:layout_height="wrap_content"
+                  android:text="RR"
+                  android:textSize="23dp"
+                  android:textColor="#FFFFFF"
+                  android:gravity="top"
+                  android:id="@+id/RR"
+                  android:layout_marginTop="20dp"
+                  android:layout_toRightOf="@id/RL"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:weightSum="4.5"
+    android:background="#131313">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:text="Searching for controller"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:id="@+id/up_txt"
+                android:layout_weight="1"
+                android:textSize="22sp"
+                android:textColor="#7e7e7e"/>
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/img_loading"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/anim"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:text="Android"/>
+    <ListView
+            android:id="@+id/list_device"
+            android:layout_marginTop="20dp"
+            android:divider="@android:color/darker_gray"
+            android:paddingTop="15dp"
+            android:scrollbars="none"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3">
+    </ListView>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:id="@+id/beak_txt"
+                android:text="Power on your car"
+                android:textSize="14sp"
+                android:textColor="#7e7e7e"
+                android:padding="20dp"
+                android:clickable="true"/>
+</LinearLayout>
